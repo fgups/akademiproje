@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\proje\acunmedyahesapmakinesi\acunmedyahesapmakinesi\bin\Debug\acunmedyahesapmakinesi.exe.config
+C:\Users\Furkan\Desktop\proje\acunmedyahesapmakinesi\acunmedyahesapmakinesi\bin\Debug\acunmedyahesapmakinesi.exe
+C:\Users\Furkan\Desktop\proje\acunmedyahesapmakinesi\acunmedyahesapmakinesi\bin\Debug\acunmedyahesapmakinesi.pdb
+C:\Users\Furkan\Desktop\proje\acunmedyahesapmakinesi\acunmedyahesapmakinesi\obj\Debug\acunmedyahesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\proje\acunmedyahesapmakinesi\acunmedyahesapmakinesi\obj\Debug\acunmedyahesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\proje\acunmedyahesapmakinesi\acunmedyahesapmakinesi\obj\Debug\acunmedyahesapmakinesi.exe
+C:\Users\Furkan\Desktop\proje\acunmedyahesapmakinesi\acunmedyahesapmakinesi\obj\Debug\acunmedyahesapmakinesi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\proje\acunmedyahello\acunmedyahello\bin\Debug\acunmedyahello.exe.config
+C:\Users\Furkan\Desktop\proje\acunmedyahello\acunmedyahello\bin\Debug\acunmedyahello.exe
+C:\Users\Furkan\Desktop\proje\acunmedyahello\acunmedyahello\bin\Debug\acunmedyahello.pdb
+C:\Users\Furkan\Desktop\proje\acunmedyahello\acunmedyahello\obj\Debug\acunmedyahello.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\proje\acunmedyahello\acunmedyahello\obj\Debug\acunmedyahello.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\proje\acunmedyahello\acunmedyahello\obj\Debug\acunmedyahello.exe
+C:\Users\Furkan\Desktop\proje\acunmedyahello\acunmedyahello\obj\Debug\acunmedyahello.pdb
